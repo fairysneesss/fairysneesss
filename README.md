@@ -36,9 +36,6 @@
 
 Feel free to reach out or connect if you want to collaborate, share ideas, or just say hi!
 
-📩 Email: naryfella@gmail.com  
-🌐 GitHub: [github.com/fairysneesss](https://github.com/fairysneesss)
 
----
 
 *Thanks for stopping by! Stay curious ✨*
