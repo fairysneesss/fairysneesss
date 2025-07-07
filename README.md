@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fella</h1>
+<h1 align="center">Hi , I'm Fella</h1>
 <h3 align="center">Math student | Aspiring developer | Creative thinker</h3>
 <h4 align="center">Blending logic, art, and code to build thoughtful things — one step at a time.</h4>
 
